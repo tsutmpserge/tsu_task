@@ -1,0 +1,40 @@
+[ 1730505947.442971]: IMSettings-Daemon[4125]: INFO: Starting imsettings-daemon...
+[ 1730505947.443290]: IMSettings-Daemon[4125]: INFO:   [HOME=/home/user/.config/imsettings]
+[ 1730505947.443355]: IMSettings-Daemon[4125]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1730505947.443370]: IMSettings-Daemon[4125]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1730505947.443381]: IMSettings-Daemon[4125]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1730505947.443394]: IMSettings-Daemon[4125]: INFO:   [MODULES=gsettings]
+
+[ 1730505947.447031]: GLib-GIO[4125]: DEBUG: _g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit/xinput.d//xcompose.conf
+	  Файл: /etc/X11/xinit/xinput.d//xcompose.conf
+	  Размер: 146       	Блоков: 8          Блок В/В: 4096   обычный файл
+	Устройство: fd00h/64768d	Инода: 2229205     Ссылки: 1
+	Доступ: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+	Контекст: system_u:object_r:bin_t:s0
+	Доступ:        2024-11-02 09:05:47.270924920 +0900
+	Модифицирован: 2020-11-09 20:07:32.000000000 +0900
+	Изменён:       2024-11-01 12:18:47.265016426 +0900
+	Создан:        -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: no
+DESKTOP: mate
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+GTK_IM_MODULE: xim
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: X compose table
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1730505950.234447]: IMSettings-Daemon[4125]: INFO: Attempting to switch IM to X compose table [lang=ru_RU.UTF-8, update=false]
+[ 1730505950.368389]: IMSettings-Daemon[4125]: INFO:   no need to invoke any auxiliary process for X compose table
+[ 1730505950.368676]: IMSettings-GSettings backend[4125]: INFO: Setting up xim:xim as gtk+ immodule

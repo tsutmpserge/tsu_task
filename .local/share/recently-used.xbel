@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/script.sh" added="2024-11-17T01:48:13.159796Z" modified="2024-11-17T01:53:46.726784Z" visited="2024-11-17T01:48:13.159797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma Text Editor" exec="&apos;pluma %u&apos;" modified="2024-11-17T01:53:46.726782Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/test/test.odt" added="2024-11-17T22:45:46.023909Z" modified="2024-11-17T22:45:46.023924Z" visited="2024-11-17T22:45:46.023911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager Caja" exec="&apos;libreoffice --writer %U&apos;" modified="2024-11-17T22:45:46.023916Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/test/test1.odt" added="2024-11-17T22:47:31.288189Z" modified="2024-11-17T22:50:40.918794Z" visited="2024-11-17T22:47:31.288191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="File Manager Caja" exec="&apos;libreoffice --writer %U&apos;" modified="2024-11-17T22:50:40.918789Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/test/rh.pdf" added="2024-11-17T22:49:42.437074Z" modified="2024-11-17T22:49:42.687410Z" visited="2024-11-17T22:49:42.437075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-11-17T22:49:42.687409Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/777.pdf" added="2024-11-17T22:50:04.897409Z" modified="2024-11-17T22:50:05.147536Z" visited="2024-11-17T22:50:04.897411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-11-17T22:50:05.147535Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/script1.sh" added="2024-11-17T22:59:44.290122Z" modified="2024-11-17T23:11:55.131415Z" visited="2024-11-17T22:59:44.290124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="File Manager Caja" exec="&apos;pluma %U&apos;" modified="2024-11-17T23:03:27.102472Z" count="2"/>
+          <bookmark:application name="Pluma Text Editor" exec="&apos;pluma %u&apos;" modified="2024-11-17T23:11:55.131413Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/script.py" added="2024-11-18T03:30:06.181526Z" modified="2024-11-18T03:55:19.844999Z" visited="2024-11-18T03:30:06.181527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma Text Editor" exec="&apos;pluma %u&apos;" modified="2024-11-18T03:55:19.844998Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/script.py" added="2024-11-18T03:58:45.183941Z" modified="2024-11-18T05:07:51.614362Z" visited="2024-11-18T03:58:45.183942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma Text Editor" exec="&apos;pluma %u&apos;" modified="2024-11-18T05:07:51.614359Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
